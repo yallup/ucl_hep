@@ -3,6 +3,12 @@ marp: true
 theme: socrates
 paginate: true
 author: David Yallup
+style: |
+  .columns {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1rem;
+  }
 
 ---
 
@@ -21,6 +27,14 @@ section {
 
 <style>
    .font-size: 20px;
+    
+    img[alt~="center"] {
+    display: block;
+    margin: 0 auto;
+    }
+
+  justify-content: flex-start;
+
 
    .cite-author {
       text-align        : right;
