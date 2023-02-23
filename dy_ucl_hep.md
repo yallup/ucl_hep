@@ -150,7 +150,7 @@ Personal goals:
 
 <!-- _class: invert lead -->
 
-# Set up some terminology
+# __Set up some terminology__
 (Hopefully) demystifying some jargon
 
 ---
@@ -199,7 +199,7 @@ Definition of conditional probability
 
 <!-- _class: invert lead -->
 
-# Bayesian Techniques
+# __Bayesian Techniques__
 A brief look at their role in Particle Physics
 An introduction to Nested Sampling
 
@@ -454,7 +454,7 @@ An "optimally difficult" problem in 2D
 
 <!-- _class: invert lead -->
 
-# Diphotons and fitting in HEP
+# __Diphotons and fitting in HEP__
 The case for fitting models with MCMC
 
 ----
@@ -525,7 +525,7 @@ Larger values of $N$ always prefered, have to derive a correction
 ----
 <!-- _class: invert lead -->
 
-# Discrete Marginalising
+# __Discrete Marginalising__
 ## Shopping list:
 ### Likelihood &#9989; Poisson 
 ### Models &#9989; Standard Functions
@@ -691,7 +691,7 @@ NS navigating both multimodal background and signal
 
 <!-- _class: invert lead -->
 
-# Presenting some of the competition
+# __Presenting some of the competition__
 
 ## How else can we capture this increased functional diversity?
 
@@ -722,7 +722,7 @@ __[[2211.10391]](https://arxiv.org/abs/2211.10391)__
 
 <!-- _class: invert lead -->
 
-# Follow on from this work
+# __Follow on from this work__
 
 Topics I'd like to think about more
 Topics I'd be interested in hearing more about
@@ -803,7 +803,7 @@ __nb:__ ME as Likelihood, __not__ fitting to data
 
 <!-- _class: invert lead -->
 
-# Conclusion
+# __Conclusion__
 
 
 #### Fine detail of model comparison problems are (for my money) increasingly coming to the fore of particle physics
