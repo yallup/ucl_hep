@@ -69,7 +69,7 @@ section {
 ##### UCL HEP seminars
 
 ![height:100px](./assets/cam.png) 
-[yallup.github.io/ucl_hep]
+[[yallup.github.io/ucl_hep]](https://yallup.github.io/ucl_hep) 
 
 ---
 # Backstory
