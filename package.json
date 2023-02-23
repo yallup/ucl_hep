@@ -1,13 +1,13 @@
 {
   "name": "marp-cli-example",
   "version": "0.0.0",
-  "author": "Yuki Hattori <yukihattori1116@gmail.com>",
+  "author": "David Yallup <david.yallup@gmail.com>",
   "license": "WTFPL",
   "private": true,
   "scripts": {
     "build": "rimraf public && npm run -s og-image && npm run -s deck",
-    "deck": "marp --no-stdin PITCHME.md -o public/index.html && ncp assets public/assets",
-    "og-image": "marp --no-stdin PITCHME.md -o public/og-image.jpg",
+    "deck": "marp --no-stdin dy_ucl_hep.md -o public/index.html && ncp assets public/assets",
+    "og-image": "marp --no-stdin dy_ucl_hep.md -o public/og-image.jpg",
     "start": "marp -ps .",
     "vercel-build": "npm i puppeteer --no-save && MARP_USER=root CHROME_PATH=$(node -e \"console.log(require('puppeteer').executablePath())\") npm run build"
   },
